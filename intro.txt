@@ -1,0 +1,11 @@
+   ------------------------------------
+  / Breaking dependencies, testing and \
+  |     and object oriented design     |
+  |                                    |
+  \		    Come sit closer           /
+   -----------------------------------
+        \   ^__^
+         \  (oo)\\_______
+            (__)\\       )\\/\\
+                ||----w |
+                ||     ||
