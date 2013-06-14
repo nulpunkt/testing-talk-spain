@@ -1,0 +1,15 @@
+   ----------------------------------
+  /                                   \
+  | Growing object oriented software   |
+  |          guided by tests           |
+  |                                    |
+  |    Steve Freeman and Nat Pryce     |
+  \                                   /
+   ----------------------------------
+        \   ^__^
+         \  (oo)\\_______
+            (__)\\       )\\/\\
+                ||----w |
+                ||     ||
+
+
