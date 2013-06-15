@@ -7,3 +7,4 @@ Feature: See Licenses
     Given I am logged in as "jsn@ordbogen.com" with password "test123"
     And I go to "/profile"
     Then I should see "Licenses"
+	And I should see "Duden Verlag: German"
